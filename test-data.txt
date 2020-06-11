@@ -1,0 +1,15 @@
+Eloquent JavaScript
+Marijn Haverbeke
+978-1593279509
+
+JavaScript The Definitive Guide
+David Flanagan
+978-1491952023
+
+JavaScript and jQuery
+Jon Duckett
+978-1118531648
+
+Head First JavaScript Programming
+Eric Freeman
+978-1449340131
